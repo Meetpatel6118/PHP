@@ -1,0 +1,7 @@
+usernameErrMsg
+passwordErrMsg
+confirm_passwordErrMsg
+first_nameErrMsg
+last_nameErrMsg
+register
+login
